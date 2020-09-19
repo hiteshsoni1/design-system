@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Custom/Checkbox Primary 1`] = `
+<input
+  checked={false}
+  className="btn-checkbox undefined"
+  disabled={false}
+  style={
+    Object {
+      "--color": "red",
+      "--size": "4px",
+      "height": "20px",
+      "width": "20px",
+    }
+  }
+  type="checkbox"
+/>
+`;
+
+exports[`Storyshots Custom/Checkbox Secondary 1`] = `
+<input
+  checked={false}
+  className="btn-checkbox undefined"
+  disabled={false}
+  style={
+    Object {
+      "--color": "orange",
+      "--size": "8px",
+      "height": "40px",
+      "width": "40px",
+    }
+  }
+  type="checkbox"
+/>
+`;
+
+exports[`Storyshots Custom/Switch Primary 1`] = `
+<input
+  checked={true}
+  className="btn-switch undefined"
+  disabled={false}
+  style={
+    Object {
+      "--borderRadius": "10px",
+      "--height": "20px",
+      "--width": "40px",
+      "backgroundColor": "red",
+    }
+  }
+  type="checkbox"
+/>
+`;
